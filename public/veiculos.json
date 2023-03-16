@@ -1,0 +1,11 @@
+[
+	{"veiculoId":0,"veiculoChave":"ford-1723","veiculoTitulo":"Caminhão Ford 1723","veiculoDesc":"Caminhão Ford 1723 ano 2013 equipado com tanque pipa de 10000 litros","veiculoAtivo":true,"veiculoDestaque":true},
+	{"veiculoId":1,"veiculoChave":"iveco-eurocargo","veiculoTitulo":"Caminhão Iveco Eurocargo","veiculoDesc":"Caminhão Iveco Eurocargo 170e22 ano 2012 equipado com Comboio de Lubrificação de marca Bozza de 5000 litros","veiculoAtivo":true,"veiculoDestaque":true},
+	{"veiculoId":2,"veiculoChave":"vw-13180","veiculoTitulo":"Caminhão VW 13180","veiculoDesc":"Caminhão VW 13180 ano 2010 equipado com Espargidor de asfalto hidráulico, com barra e caneta espargidora","veiculoAtivo":true,"veiculoDestaque":true},
+	{"veiculoId":3,"veiculoChave":"vw-13180-2010","veiculoTitulo":"Caminhão VW 13180 ano 2010","veiculoDesc":"Caminhão VW 13180 ano 2010 equipado com Espargidor de asfalto hidráulico, com barra e caneta espargidora","veiculoAtivo":true,"veiculoDestaque":true},
+	{"veiculoId":4,"veiculoChave":"mercedes-benz-1718","veiculoTitulo":"Mercedes Benz 1718","veiculoDesc":"Caminhão Mercedes Benz 1718 ano 2012 equipado com tanque pipa de 10.000 litros","veiculoAtivo":true,"veiculoDestaque":false},
+	{"veiculoId":5,"veiculoChave":"mercedes-benz-1419","veiculoTitulo":"Mercedes Benz 1419","veiculoDesc":"Caminhão Mercedes Benz 1419 com ar condicionado ano 2022 equipado com Espargidor de asfalto hidráulico com barra e caneta de pintura","veiculoAtivo":true,"veiculoDestaque":false},
+	{"veiculoId":6,"veiculoChave":"vecotector170e22","veiculoTitulo":"Caminhão Iveco Tector","veiculoDesc":"Caminhão Iveco Tector 170e22 ano 2010 equipadocom tanque pipa de 10.000 litros","veiculoAtivo":true,"veiculoDestaque":false},
+	{"veiculoId":7,"veiculoChave":"vecotector170e22-comar","veiculoTitulo":"Caminhão Iveco Tector com ar","veiculoDesc":"Caminhão Iveco Tector 170e22 com ar condicionado, ano 2022 equipado com Comboio de Lubrificação Gascon de 7000 litros","veiculoAtivo":true,"veiculoDestaque":false},
+	{"veiculoId":8,"veiculoChave":"mercedes-benz-1719","veiculoTitulo":"Mercedes Benz 1719","veiculoDesc":"Caminhão Mercedes Benz 1719 com ar condicionado ano 2022 equipado com Espargidor de asfalto hidráulico com barra e caneta de pintura","veiculoAtivo":true,"veiculoDestaque":false}
+]
